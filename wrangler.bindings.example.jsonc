@@ -1,0 +1,19 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "aiclawchuhai-shop",
+  "compatibility_date": "2026-03-25",
+  "pages_build_output_dir": "./site",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "aiclawchuhai-db",
+      "database_id": "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+    }
+  ],
+  "r2_buckets": [
+    {
+      "binding": "MEDIA_BUCKET",
+      "bucket_name": "aiclawchuhai-media"
+    }
+  ]
+}

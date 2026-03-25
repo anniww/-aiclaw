@@ -1,0 +1,17 @@
+{
+  "name": "AI外贸出海获客软件",
+  "short_name": "AICL出海",
+  "description": "AI外贸获客软件官网，支持 SEO / GEO / CMS / CRM / 文章系统 / 方案页 / Cloudflare Pages 部署。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05070e",
+  "theme_color": "#0a1020",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

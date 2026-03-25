@@ -1,0 +1,17 @@
+{
+  "name": "强转化联系条",
+  "slug": "contact-cta-strip",
+  "slot": "home.before-pricing",
+  "kind": "cta-strip",
+  "title": "已有流量但询盘不稳定？把搜索、社媒、广告统一导流到 WhatsApp / Telegram。",
+  "config_json": {
+    "primaryLabel": "Telegram 立即咨询",
+    "primaryUrl": "https://t.me/aiclawchuhai",
+    "secondaryLabel": "WhatsApp 立即咨询",
+    "secondaryUrl": "https://wa.me/85252195605"
+  },
+  "html_template": "",
+  "css_text": "",
+  "js_text": "",
+  "is_active": true
+}

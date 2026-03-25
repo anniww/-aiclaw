@@ -1,0 +1,19 @@
+{
+  "name": "GEO 信任数据条",
+  "slug": "geo-stat-grid",
+  "slot": "home.after-proof",
+  "kind": "stat-grid",
+  "title": "搜索与 AI 检索更容易理解你的官网",
+  "config_json": {
+    "items": [
+      { "value": "FAQ", "label": "结构化问答" },
+      { "value": "llms.txt", "label": "AI 检索入口" },
+      { "value": "RSS", "label": "持续更新信号" },
+      { "value": "Sitemap", "label": "索引入口" }
+    ]
+  },
+  "html_template": "",
+  "css_text": "",
+  "js_text": "",
+  "is_active": true
+}
