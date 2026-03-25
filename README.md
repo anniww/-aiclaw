@@ -1,4 +1,4 @@
-# aiclawchuhai.shop - Cloudflare Pages 长期运营版官网
+# aiclawchuhai.shop - 长期运营版官网
 
 这是一个为 **AI 外贸获客软件** 定制的长期运营站点，不是临时单页。
 
